@@ -1,0 +1,302 @@
+[
+  {
+    "title": "フロントエンドエンジニア",
+    "company": "株式会社スカイリンク",
+    "location": "福岡県福岡市",
+    "salary": "350万～600万円",
+    "status": "派遣社員",
+    "industry": "AI・データ分析",
+    "description": "Unity/C++によるゲーム開発。",
+    "link": "/jobs/1.html"
+  },
+  {
+    "title": "バックエンドエンジニア",
+    "company": "株式会社ネクストステージ",
+    "location": "東京都港区",
+    "salary": "400万～700万円",
+    "status": "契約社員",
+    "industry": "IT・ソフトウェア",
+    "description": "深層学習モデルの開発と評価。",
+    "link": "/jobs/2.html"
+  },
+  {
+    "title": "データサイエンティスト",
+    "company": "株式会社スカイリンク",
+    "location": "東京都新宿区",
+    "salary": "700万～1200万円",
+    "status": "派遣社員",
+    "industry": "クラウド・インフラ",
+    "description": "テスト設計と自動化スクリプトの作成。",
+    "link": "/jobs/3.html"
+  },
+  {
+    "title": "インフラエンジニア",
+    "company": "株式会社ネクストステージ",
+    "location": "北海道札幌市",
+    "salary": "700万～1200万円",
+    "status": "業務委託",
+    "industry": "ゲーム・エンタメ",
+    "description": "AWS/GCPを用いたインフラ設計・構築。",
+    "link": "/jobs/4.html"
+  },
+  {
+    "title": "QAエンジニア",
+    "company": "株式会社イノベーションズ",
+    "location": "大阪府大阪市",
+    "salary": "300万～500万円",
+    "status": "正社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "Unity/C++によるゲーム開発。",
+    "link": "/jobs/5.html"
+  },
+  {
+    "title": "プロジェクトマネージャー",
+    "company": "株式会社スカイリンク",
+    "location": "東京都港区",
+    "salary": "600万～1000万円",
+    "status": "正社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "機械学習モデルの構築とデータ分析業務。",
+    "link": "/jobs/6.html"
+  },
+  {
+    "title": "UI/UXデザイナー",
+    "company": "株式会社イノベーションズ",
+    "location": "北海道札幌市",
+    "salary": "300万～500万円",
+    "status": "契約社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "IT戦略の立案と業務改善提案。",
+    "link": "/jobs/7.html"
+  },
+  {
+    "title": "モバイルアプリ開発者",
+    "company": "株式会社ソリューションズ",
+    "location": "東京都渋谷区",
+    "salary": "400万～700万円",
+    "status": "業務委託",
+    "industry": "IT・ソフトウェア",
+    "description": "ユーザー体験を重視したUI設計。",
+    "link": "/jobs/8.html"
+  },
+  {
+    "title": "クラウドアーキテクト",
+    "company": "株式会社デジタルワークス",
+    "location": "神奈川県横浜市",
+    "salary": "500万～900万円",
+    "status": "業務委託",
+    "industry": "クラウド・インフラ",
+    "description": "iOS/Android向けアプリの開発。",
+    "link": "/jobs/9.html"
+  },
+  {
+    "title": "セキュリティエンジニア",
+    "company": "株式会社ソリューションズ",
+    "location": "東京都新宿区",
+    "salary": "350万～600万円",
+    "status": "派遣社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "クラウド環境の最適化と運用設計。",
+    "link": "/jobs/10.html"
+  },
+  {
+    "title": "ITコンサルタント",
+    "company": "株式会社イノベーションズ",
+    "location": "東京都新宿区",
+    "salary": "400万～700万円",
+    "status": "正社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "開発チームの進捗管理と顧客対応。",
+    "link": "/jobs/11.html"
+  },
+  {
+    "title": "機械学習エンジニア",
+    "company": "株式会社ソリューションズ",
+    "location": "東京都渋谷区",
+    "salary": "600万～1000万円",
+    "status": "業務委託",
+    "industry": "クラウド・インフラ",
+    "description": "深層学習モデルの開発と評価。",
+    "link": "/jobs/12.html"
+  },
+  {
+    "title": "DevOpsエンジニア",
+    "company": "株式会社テックウェーブ",
+    "location": "広島県広島市",
+    "salary": "350万～600万円",
+    "status": "契約社員",
+    "industry": "クラウド・インフラ",
+    "description": "開発チームの進捗管理と顧客対応。",
+    "link": "/jobs/13.html"
+  },
+  {
+    "title": "テクニカルサポート",
+    "company": "株式会社デジタルワークス",
+    "location": "広島県広島市",
+    "salary": "400万～700万円",
+    "status": "契約社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "ユーザー体験を重視したUI設計。",
+    "link": "/jobs/14.html"
+  },
+  {
+    "title": "ゲームプログラマー",
+    "company": "株式会社ソリューションズ",
+    "location": "東京都港区",
+    "salary": "300万～500万円",
+    "status": "業務委託",
+    "industry": "AI・データ分析",
+    "description": "クラウド環境の最適化と運用設計。",
+    "link": "/jobs/15.html"
+  },
+  {
+    "title": "Webディレクター",
+    "company": "株式会社クラウドリンク",
+    "location": "東京都港区",
+    "salary": "300万～500万円",
+    "status": "派遣社員",
+    "industry": "クラウド・インフラ",
+    "description": "テスト設計と自動化スクリプトの作成。",
+    "link": "/jobs/16.html"
+  },
+  {
+    "title": "IT営業",
+    "company": "株式会社ソリューションズ",
+    "location": "愛知県名古屋市",
+    "salary": "700万～1200万円",
+    "status": "業務委託",
+    "industry": "IT・ソフトウェア",
+    "description": "顧客対応と技術的な問題解決。",
+    "link": "/jobs/17.html"
+  },
+  {
+    "title": "IT事務",
+    "company": "株式会社テックウェーブ",
+    "location": "神奈川県横浜市",
+    "salary": "700万～1200万円",
+    "status": "派遣社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "React/Vue.jsを用いたWebアプリケーションの開発。",
+    "link": "/jobs/18.html"
+  },
+  {
+    "title": "カスタマーサクセス",
+    "company": "株式会社クラウドリンク",
+    "location": "神奈川県横浜市",
+    "salary": "500万～900万円",
+    "status": "業務委託",
+    "industry": "IT・ソフトウェア",
+    "description": "IT戦略の立案と業務改善提案。",
+    "link": "/jobs/19.html"
+  },
+  {
+    "title": "ローカライズ担当",
+    "company": "株式会社デジタルワークス",
+    "location": "東京都新宿区",
+    "salary": "500万～900万円",
+    "status": "派遣社員",
+    "industry": "クラウド・インフラ",
+    "description": "iOS/Android向けアプリの開発。",
+    "link": "/jobs/20.html"
+  },
+  {
+    "title": "ITアナリスト",
+    "company": "株式会社ネクストステージ",
+    "location": "東京都新宿区",
+    "salary": "700万～1200万円",
+    "status": "正社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "CI/CDパイプラインの構築と運用。",
+    "link": "/jobs/21.html"
+  },
+  {
+    "title": "AIエンジニア",
+    "company": "株式会社デジタルワークス",
+    "location": "東京都渋谷区",
+    "salary": "450万～800万円",
+    "status": "契約社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "CI/CDパイプラインの構築と運用。",
+    "link": "/jobs/22.html"
+  },
+  {
+    "title": "ネットワークエンジニア",
+    "company": "株式会社イノベーションズ",
+    "location": "福岡県福岡市",
+    "salary": "500万～900万円",
+    "status": "派遣社員",
+    "industry": "IT・ソフトウェア",
+    "description": "IT戦略の立案と業務改善提案。",
+    "link": "/jobs/23.html"
+  },
+  {
+    "title": "データエンジニア",
+    "company": "株式会社データラボ",
+    "location": "東京都港区",
+    "salary": "600万～1000万円",
+    "status": "正社員",
+    "industry": "AI・データ分析",
+    "description": "ユーザー体験を重視したUI設計。",
+    "link": "/jobs/24.html"
+  },
+  {
+    "title": "ソリューションアーキテクト",
+    "company": "株式会社デジタルワークス",
+    "location": "宮城県仙台市",
+    "salary": "600万～1000万円",
+    "status": "業務委託",
+    "industry": "クラウド・インフラ",
+    "description": "CI/CDパイプラインの構築と運用。",
+    "link": "/jobs/25.html"
+  },
+  {
+    "title": "プロダクトマネージャー",
+    "company": "株式会社データラボ",
+    "location": "大阪府大阪市",
+    "salary": "300万～500万円",
+    "status": "契約社員",
+    "industry": "IT・ソフトウェア",
+    "description": "社内システムのセキュリティ強化。",
+    "link": "/jobs/26.html"
+  },
+  {
+    "title": "テストエンジニア",
+    "company": "株式会社クラウドリンク",
+    "location": "神奈川県横浜市",
+    "salary": "400万～700万円",
+    "status": "正社員",
+    "industry": "IT・ソフトウェア",
+    "description": "Python/DjangoによるAPI開発と運用。",
+    "link": "/jobs/27.html"
+  },
+  {
+    "title": "IT講師",
+    "company": "株式会社デジタルワークス",
+    "location": "愛知県名古屋市",
+    "salary": "700万～1200万円",
+    "status": "契約社員",
+    "industry": "AI・データ分析",
+    "description": "Unity/C++によるゲーム開発。",
+    "link": "/jobs/28.html"
+  },
+  {
+    "title": "セールスエンジニア",
+    "company": "株式会社テックウェーブ",
+    "location": "北海道札幌市",
+    "salary": "700万～1200万円",
+    "status": "契約社員",
+    "industry": "クラウド・インフラ",
+    "description": "Unity/C++によるゲーム開発。",
+    "link": "/jobs/29.html"
+  },
+  {
+    "title": "RPAエンジニア",
+    "company": "株式会社データラボ",
+    "location": "東京都渋谷区",
+    "salary": "350万～600万円",
+    "status": "正社員",
+    "industry": "ゲーム・エンタメ",
+    "description": "開発チームの進捗管理と顧客対応。",
+    "link": "/jobs/30.html"
+  }
+]
